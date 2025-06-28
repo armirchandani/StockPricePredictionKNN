@@ -43,5 +43,5 @@ Test alternative classification models like Logistic Regression, Random Forest, 
 
 Implement backtesting and portfolio simulation for real-time strategy evaluation.
 
-Author
+Author -
 Aastha Mirchandani
